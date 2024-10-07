@@ -89,3 +89,10 @@ This structure ensures that:
 ## Conclusion
 
 This project demonstrates a clean and modular approach to building an Android app using the MVVM architecture. By separating the responsibilities of data fetching, business logic, and UI management, the code is easier to maintain, test, and extend. The use of **ViewModel** and **LiveData** ensures that the app responds efficiently to data changes, while **Retrofit** simplifies network operations.
+
+## DEMO OF APP
+
+
+https://github.com/user-attachments/assets/f23dae64-a6be-478f-bb66-747d6b01844f
+
+
